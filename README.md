@@ -1,1 +1,1 @@
-# Eduloop-AI
+Eduloop is an AI-powered e-learning platform designed to provide personalized learning experiences, smart course recommendations, and interactive educational tools to help students learn more efficiently.# Eduloop-AI
